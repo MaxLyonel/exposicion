@@ -4,7 +4,7 @@
     <h2>Listado de estudiantes</h2>
     <!-- <Read /> -->
   </div>
-  asd
+  <!-- error -->
 </template>
 
 <script>

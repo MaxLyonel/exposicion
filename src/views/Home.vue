@@ -9,7 +9,7 @@
 <script>
 // @ is an alias to /src
 import Read from "@/components/ReadCrud.vue";
-
+sasdasd;
 export default {
   name: "Home",
   components: {
